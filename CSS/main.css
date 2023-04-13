@@ -1,0 +1,21 @@
+.seccionprincipal {
+    height: 100vh;
+    background-image: url(../IMAGENES/img/imagen3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+ 
+.icono-facebook {
+
+    font-size: 32px;
+}
+
+.icono-instagram {
+
+    font-size: 32px;
+}
+
+.icono-whatsapp {
+
+    font-size: 32px;
+}
